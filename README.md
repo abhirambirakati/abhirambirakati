@@ -1,32 +1,44 @@
-# Hi 👋 I'm Abhiram
-
-💻 Student Developer  
-🚀 Learning Web Development  
-📍 India
+<h1 align="center">Hi 👋 I'm Abhiram</h1>
+<h3 align="center">💻 Student Developer | 🚀 Learning Web Development</h3>
 
 ---
 
-## 👨‍💻 About Me
-- 🌱 Currently learning JavaScript
-- 💡 Interested in Web Development
-- 🎯 Goal: Become a Full Stack Developer
+🌙 Welcome to my GitHub profile!
+
+- 🌱 Currently learning **JavaScript & Web Development**
+- 💡 Interested in **building websites and cool projects**
+- 🎯 Goal: Become a **Full Stack Developer**
 
 ---
 
-## 🛠 Skills
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+## 🛠 Tech Stack
+
+HTML • CSS • JavaScript • Git • GitHub
 
 ---
 
 ## 📂 Projects
-- Portfolio Website
-- Student Management System
-- Weather App
+
+🚀 Portfolio Website  
+🌤 Weather App  
+📚 Student Management System  
 
 ---
 
-## 📫 Contact
-- GitHub: https://github.com/abhirambirakati
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhirambirakati&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhirambirakati&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abhirambirakati&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/abhirambirakati
