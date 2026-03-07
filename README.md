@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Abhiram
 
-<!--
-**abhirambirakati/abhirambirakati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Student Developer  
+🚀 Learning Web Development  
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🌱 Currently learning JavaScript
+- 💡 Interested in Web Development
+- 🎯 Goal: Become a Full Stack Developer
+
+---
+
+## 🛠 Skills
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📂 Projects
+- Portfolio Website
+- Student Management System
+- Weather App
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/abhirambirakati
