@@ -1,91 +1,74 @@
-# Hi 👋, I'm Abhiram
-
-🚀 **Computer Science Student | Python Developer | Django Developer**
+<h1 align="center">Hi 👋, I'm Abhiram</h1>
+<h3 align="center">Computer Science Student | Python Developer | Django Developer</h3>
 
 ---
 
-## 👨‍💻 Professional Bio
+## 👨‍💻 About Me
 
 🎓 B.Tech Computer Science Student  
-💡 Passionate about building scalable web applications  
-🚀 Interested in Python Development, APIs, and Software Engineering  
-🌍 Interested in solving real-world problems using technology  
-
-I enjoy learning new technologies and building projects that improve my development skills.
+💡 Interested in Backend Development and APIs  
+🚀 Currently learning Django & Python Full Stack  
+📊 Working on data analysis and software projects  
 
 ---
 
-## 🧠 Core Expertise
+## 🚀 Skills
 
-🐍 Python Development  
-🌐 Web Development  
-⚙️ Django & REST APIs  
-📊 Data Analysis  
-🔐 Backend Development  
-🚀 Application Deployment  
+### Programming
+Python | Java | C++ | SQL
 
----
+### Web Development
+HTML | CSS | JavaScript | Django | REST APIs
 
-# 🛠️ Tech Stack
-
-### 💻 Programming Languages
-- Python
-- Java
-- C++
-- SQL
-
-### 🌐 Web Development
-- HTML
-- CSS
-- JavaScript
-- Django
-- REST API
-
-### 🛠 Tools
-- Git
-- GitHub
-- Linux
-- VS Code
+### Tools
+Git | GitHub | Linux | VS Code
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Projects
 
-### 🍲 Recipe App
-Android application that fetches cooking recipes using API.
+🍲 **Recipe App**  
+Android app that shows cooking recipes using APIs.
 
-### 🎓 Smart Campus API
-Django REST API for ticket management system.
+🎓 **Smart Campus API**  
+Django REST API for campus ticket management system.
 
-### 📊 Data Analysis Project
-Exploratory data analysis on agricultural commodity prices.
-
----
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+📊 **Agricultural Data Analysis**  
+Exploratory data analysis using Python.
 
 ---
 
-# 📫 Connect With Me
+## 📈 GitHub Stats
 
-📧 Email: yourmail@gmail.com  
+![Abhiram GitHub stats](https://github-readme-stats.vercel.app/api?username=abhirambirakati&show_icons=true&theme=tokyonight)
 
-💼 LinkedIn  
-https://linkedin.com/in/yourprofile  
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abhirambirakati&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
 
 💻 GitHub  
-https://github.com/YOURUSERNAME
+https://github.com/abhirambirakati
 
 🌐 Portfolio  
-https://yourportfolio.vercel.app
+(Add your portfolio link here)
+
+💼 LinkedIn  
+(Add LinkedIn link)
+
+📧 Email  
+(Add your email)
 
 ---
 
-# 🎯 Goals
+## 🎯 Goals
 
 🚀 Become a skilled software engineer  
-🌍 Build impactful software products  
-📈 Contribute to open source projects  
-💻 Work on scalable backend systems
+🌍 Build scalable backend systems  
+📈 Contribute to open source  
+💻 Build production-level applications
