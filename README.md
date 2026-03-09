@@ -1,6 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>Abhiram Portfolio</title>
 
 <style>
@@ -103,6 +106,7 @@ text-align:center;
 }
 
 </style>
+
 </head>
 
 <body>
@@ -130,6 +134,7 @@ text-align:center;
 </section>
 
 <section id="skills">
+
 <h2>Skills</h2>
 
 <div class="skills">
@@ -179,9 +184,7 @@ text-align:center;
 </section>
 
 <footer>
-
 <p>© 2026 Abhiram</p>
-
 </footer>
 
 </body>
