@@ -1,44 +1,91 @@
-<h1 align="center">Hi 👋 I'm Abhiram</h1>
-<h3 align="center">💻 Student Developer | 🚀 Learning Web Development</h3>
+# Hi 👋, I'm Abhiram
+
+🚀 **Computer Science Student | Python Developer | Django Developer**
 
 ---
 
-🌙 Welcome to my GitHub profile!
+## 👨‍💻 Professional Bio
 
-- 🌱 Currently learning **JavaScript & Web Development**
-- 💡 Interested in **building websites and cool projects**
-- 🎯 Goal: Become a **Full Stack Developer**
+🎓 B.Tech Computer Science Student  
+💡 Passionate about building scalable web applications  
+🚀 Interested in Python Development, APIs, and Software Engineering  
+🌍 Interested in solving real-world problems using technology  
 
----
-
-## 🛠 Tech Stack
-
-HTML • CSS • JavaScript • Git • GitHub
+I enjoy learning new technologies and building projects that improve my development skills.
 
 ---
 
-## 📂 Projects
+## 🧠 Core Expertise
 
-🚀 Portfolio Website  
-🌤 Weather App  
-📚 Student Management System  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhirambirakati&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhirambirakati&layout=compact&theme=tokyonight)
+🐍 Python Development  
+🌐 Web Development  
+⚙️ Django & REST APIs  
+📊 Data Analysis  
+🔐 Backend Development  
+🚀 Application Deployment  
 
 ---
 
-## 🔥 GitHub Streak
+# 🛠️ Tech Stack
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abhirambirakati&theme=tokyonight)
+### 💻 Programming Languages
+- Python
+- Java
+- C++
+- SQL
+
+### 🌐 Web Development
+- HTML
+- CSS
+- JavaScript
+- Django
+- REST API
+
+### 🛠 Tools
+- Git
+- GitHub
+- Linux
+- VS Code
 
 ---
 
-## 📫 Connect With Me
+# 🚀 Featured Projects
 
-GitHub: https://github.com/abhirambirakati
+### 🍲 Recipe App
+Android application that fetches cooking recipes using API.
+
+### 🎓 Smart Campus API
+Django REST API for ticket management system.
+
+### 📊 Data Analysis Project
+Exploratory data analysis on agricultural commodity prices.
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: yourmail@gmail.com  
+
+💼 LinkedIn  
+https://linkedin.com/in/yourprofile  
+
+💻 GitHub  
+https://github.com/YOURUSERNAME
+
+🌐 Portfolio  
+https://yourportfolio.vercel.app
+
+---
+
+# 🎯 Goals
+
+🚀 Become a skilled software engineer  
+🌍 Build impactful software products  
+📈 Contribute to open source projects  
+💻 Work on scalable backend systems
