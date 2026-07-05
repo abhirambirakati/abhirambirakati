@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Banner" width="100%">
-</p>
-
 <h1 align="center">Hi 👋, I'm Abhiram Birakati</h1>
 
 <p align="center">
