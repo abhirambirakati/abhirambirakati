@@ -1,75 +1,137 @@
+<!-- ========================= HEADER ========================= -->
+
 <h1 align="center">Hi 👋, I'm Abhiram Birakati</h1>
-<h3 align="center">Data Science Student | Software Developer | AI & Cloud Enthusiast</h3>
+
+<h3 align="center">
+Data Science Student • Software Developer • AI & Cloud Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://github.com/abhirambirakati">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Data+Science+Student;Software+Developer;Machine+Learning+Enthusiast;Cloud+%7C+DevOps+Learner;Always+Learning+New+Technologies" />
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Data+Science+Student;Machine+Learning+Enthusiast;Cloud+%26+DevOps+Learner;Always+Learning+Something+New+🚀"/>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/abhirambirakati">
+<img src="https://img.shields.io/github/followers/abhirambirakati?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/abhirambirakati">
+<img src="https://komarev.com/ghpvc/?username=abhirambirakati&style=for-the-badge&color=blue"/>
+</a>
+
 </p>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-🎓 Third-year Data Science student passionate about solving real-world problems through software and AI.
+<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-💻 Interested in **Software Development, Data Science, Machine Learning, Cloud Computing, and DevOps.**
+🎓 Third-Year **Data Science** Student
 
-🌱 Currently learning
+💻 Passionate about
+
+- Software Engineering
+- Machine Learning
+- Artificial Intelligence
+- Cloud Computing
+- DevOps
+
+🌱 Currently Learning
 
 - Data Structures & Algorithms
-- Machine Learning
-- AWS Cloud
-- Docker & Jenkins
 - System Design
+- AWS
+- Docker
+- Jenkins
+- Machine Learning
 
-🚀 Building practical projects using Python, Java, SQL, and modern development tools.
+🚀 Building real-world applications that solve meaningful problems.
 
-🤝 Open to collaborating on Open Source, AI/ML, Data Science, and Backend projects.
+🤝 Open Source | AI | Backend | Cloud Collaboration
 
-🎯 Goal: Become a Software Engineer / Data Scientist and build impactful technology.
+🎯 Goal
 
-⚡ Fun Fact: I believe consistency beats talent.
+Become a Software Engineer & Data Scientist while building products that make an impact.
+
+⚡ Fun Fact
+
+> Consistency beats Motivation.
+
+<br>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/abhirambirakati"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="https://linkedin.com/in/abhirambirakati"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:abhirambirakati18@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<p align="center">
+
+<a href="https://github.com/abhirambirakati">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/abhirambirakati">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:abhirambirakati18@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+## Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,c,js"/>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,sql"/>
+
 </p>
 
-### Web Development
+---
 
-<p>
+## Web Development
+
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,django,fastapi"/>
+
 </p>
 
-### Databases
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
+## Cloud & DevOps
 
-### Cloud & DevOps
+<p align="center">
 
-<p>
 <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,githubactions,nginx"/>
+
 </p>
 
-### Data Science & AI
+---
+
+## Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
+---
+
+## Data Science
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=anaconda"/>
+
+</p>
 
 - NumPy
 - Pandas
@@ -79,41 +141,45 @@
 - PyTorch
 - Power BI
 
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,anaconda"/>
-</p>
-
 ---
 
 # 🚀 Featured Projects
 
-### 🍽️ Recipe Recommendation App
+## 🍽️ Recipe Recommendation App
 
-Android application that recommends recipes using REST APIs with offline support.
-
----
-
-### 📈 Trendline Predictor
-
-Machine Learning-based application for predictive analysis and visualization.
+📱 Android application that fetches recipes using REST APIs with offline support.
 
 ---
 
-### 🛒 VoltStore
+## 📈 Trendline Predictor
 
-Spring Boot E-Commerce application with complete CI/CD pipeline using Docker, Jenkins, GitHub Actions, and Maven.
-
----
-
-### 📊 Warehouse Inventory Dashboard
-
-Power BI dashboard for inventory analysis, sales insights, and business reporting.
+📊 Machine Learning project for predictive analytics and visualization.
 
 ---
 
-# 📊 GitHub Statistics
+## 🛒 VoltStore
+
+🛍️ Spring Boot E-Commerce application featuring
+
+- Docker
+- Jenkins
+- GitHub Actions
+- Maven
+- CI/CD Pipeline
+
+---
+
+## 📊 Warehouse Inventory Dashboard
+
+Power BI Dashboard providing
+
+- Sales Analysis
+- Inventory Insights
+- Business Intelligence
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -123,6 +189,10 @@ Power BI dashboard for inventory analysis, sales insights, and business reportin
 
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=abhirambirakati&theme=tokyonight&hide_border=true"/>
@@ -131,10 +201,12 @@ Power BI dashboard for inventory analysis, sales insights, and business reportin
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhirambirakati&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
@@ -142,25 +214,39 @@ Power BI dashboard for inventory analysis, sales insights, and business reportin
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhirambirakati&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhirambirakati&theme=tokyonight&row=1&column=7&margin-w=10&no-frame=true"/>
+
 </p>
 
 ---
 
-# 📌 Current Focus
+# 📚 Current Focus
 
-- 📚 Mastering Data Structures & Algorithms
-- 🤖 Building Machine Learning Projects
-- ☁️ Learning AWS Cloud
-- ⚙️ Exploring DevOps & CI/CD
-- 🚀 Preparing for Software Engineering Roles
+```text
+✔ Solving DSA Daily
+
+✔ Building Machine Learning Projects
+
+✔ Learning AWS Cloud
+
+✔ Exploring DevOps
+
+✔ Preparing for Software Engineering Interviews
+```
+
+---
+
+# 💭 Quote
+
+> **"Dream Big. Stay Consistent. Build Every Day."**
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=abhirambirakati&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
+### ⭐ Thanks for visiting my profile ⭐
+
+If you like my work, consider giving a ⭐ to my repositories.
+
 </p>
