@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Abhiram Birakati</h1>
 
-<h3 align="center">
-Data Science Student • Software Developer • AI & Cloud Enthusiast
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Data+Science+Student+at+Lovely+Professional+University;Software+Developer+%7C+Backend+Developer;Machine+Learning+Enthusiast;Cloud+%26+DevOps+Learner;Building+Projects+%26+Solving+DSA+Problems+🚀" />
+</p>
 
 ---
 
@@ -74,49 +74,63 @@ To become a Software Engineer capable of building scalable applications and inte
 
 ## 🛒 VoltStore – DevOps Enabled E-Commerce Platform
 
-A complete **Spring Boot** based e-commerce application developed using modern DevOps practices. The project automates build, testing, and deployment while providing a scalable backend architecture.
+A full-stack **Spring Boot** based e-commerce application developed with modern DevOps practices. The project automates the entire software delivery process using CI/CD while providing a secure and scalable backend architecture.
 
-**Key Features**
-- Secure authentication and authorization
-- Product & order management
-- RESTful APIs
-- Docker containerization
-- Jenkins CI/CD pipeline
-- GitHub Actions automation
-- Maven build system
+### ✨ Key Features
 
-**Tech Stack:** Java • Spring Boot • MySQL • Docker • Jenkins • GitHub Actions
+- Secure User Authentication & Authorization
+- Product Catalog and Inventory Management
+- Shopping Cart & Order Processing
+- RESTful API Development
+- Docker Containerization
+- Jenkins CI/CD Pipeline
+- GitHub Actions Integration
+- Maven Build Automation
+- MySQL Database Integration
+
+### 🛠️ Tech Stack
+
+`Java` `Spring Boot` `MySQL` `Docker` `Jenkins` `GitHub Actions` `Maven` `REST API`
 
 ---
 
-## 📈 Trendline Predictor
+## 🎓 Smart Campus API – Django REST Framework
 
-A Machine Learning application that analyzes datasets and predicts future trends through data preprocessing, visualization, and predictive analytics.
+A backend REST API developed using **Django** and **Django REST Framework** to simplify campus service management. The application provides secure API endpoints for handling student requests, issue tracking, and campus-related operations.
 
-**Key Features**
-- Data preprocessing
-- Trend prediction
-- Interactive visualization
-- Performance analysis
-- Business insights
+### ✨ Key Features
 
-**Tech Stack:** Python • Pandas • NumPy • Matplotlib • Scikit-Learn
+- Secure User Authentication
+- RESTful API Development
+- CRUD Operations
+- Role-Based Access Control
+- JSON Response Handling
+- Database Integration
+- Scalable Backend Architecture
+- API Testing using Postman
+
+### 🛠️ Tech Stack
+
+`Python` `Django` `Django REST Framework` `SQLite` `REST API` `Postman`
 
 ---
 
 ## 🍽️ Recipe Recommendation App
 
-An Android application that helps users discover recipes using REST APIs while providing a smooth and responsive user experience.
+An Android application that helps users discover recipes quickly using external REST APIs. The application provides an intuitive user interface with efficient recipe searching and offline support for an enhanced user experience.
 
-**Key Features**
-- Recipe search
-- API integration
-- Offline storage
-- User-friendly interface
-- Fast loading
+### ✨ Key Features
 
-**Tech Stack:** Java • Android • REST APIs
+- Search Recipes by Name or Category
+- Real-Time REST API Integration
+- Offline Data Storage
+- Clean and Responsive User Interface
+- Fast Loading & Smooth Navigation
+- User-Friendly Recipe Browsing
 
+### 🛠️ Tech Stack
+
+`Java` `Android Studio` `REST API` `SQLite`
 ---
 
 # 📊 GitHub Statistics
