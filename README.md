@@ -1,143 +1,18 @@
-<h1 align="center">Hi 👋, I'm Abhiram Birakati</h1>
-<h3 align="center">Data Science Student | Software Developer | Machine Learning Enthusiast</h3>
+# 💫 About Me:
+## 🚀 About Me<br><br>👨‍💻 Passionate Data Science student with a strong interest in Software Development, AI, and Cloud Technologies.<br><br>🔭 Currently building projects in Data Science, Machine Learning, and Full Stack Development.<br><br>🌱 Learning AWS, and DevOps.<br><br>🤝 Open to collaborating on Open Source, AI/ML, and innovative software projects.<br><br>💬 Ask me about Python, C++, Data Science, SQL, Machine Learning, Git/GitHub, and Power BI.<br><br>🎯 Goal: Secure a Software/Data Science role while continuously learning and building impactful projects.<br><br>⚡ Fun fact: I believe consistency beats motivation—one coding problem at a time.
 
-<p align="center">
-  <a href="mailto:abhirambirakati18@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/abhirambirakati">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/abhirambirakati">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhirambirakati/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhirambirakati18@gmail.com) 
 
-# 🚀 About Me
-
-I'm a **Third-Year Data Science student** passionate about building software that solves real-world problems.
-
-I enjoy working in **Software Development, Machine Learning, Cloud Computing, and DevOps**, while continuously improving my problem-solving skills through **Data Structures & Algorithms**.
-
-Currently, I'm focusing on developing scalable applications, strengthening my backend development skills, and building practical projects that enhance my technical knowledge.
-
-### 🌱 Currently Learning
-
-- Data Structures & Algorithms
-- Machine Learning
-- AWS Cloud
-- Docker & Jenkins
-- System Design
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abhirambirakati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abhirambirakati&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abhirambirakati&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=abhirambirakati&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 💻 Technical Skills
-
-| Category | Skills |
-|-----------|--------|
-| **Languages** | Python, Java, C++, C, SQL |
-| **Backend** | Django, FastAPI, REST APIs |
-| **Frontend** | HTML, CSS |
-| **Data Science** | NumPy, Pandas, Matplotlib, Scikit-Learn, TensorFlow, PyTorch |
-| **Cloud & DevOps** | AWS, Docker, Jenkins, GitHub Actions, Maven |
-| **Database** | MySQL, MongoDB |
-| **Tools** | Git, GitHub, Postman, VS Code, Power BI |
-
----
-
-# 🚀 Featured Projects
-
-## 🛒 VoltStore - DevOps E-Commerce Platform
-
-A Spring Boot based E-Commerce application integrated with a complete CI/CD pipeline.
-
-### Features
-
-- User Authentication
-- Product & Order Management
-- REST APIs
-- Docker Containerization
-- Jenkins CI/CD Pipeline
-- GitHub Actions Automation
-
-**Tech Stack**
-
-`Java` `Spring Boot` `Docker` `Jenkins` `GitHub Actions` `MySQL`
-
----
-
-## 📈 Trendline Predictor
-
-A Machine Learning application developed to analyze datasets and predict future trends using data visualization and predictive analytics.
-
-### Features
-
-- Data Cleaning
-- Trend Prediction
-- Interactive Charts
-- Performance Analysis
-
-**Tech Stack**
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Scikit-Learn`
-
----
-
-## 🍽️ Recipe Recommendation App
-
-An Android application that recommends recipes using external APIs with a clean user interface and offline support.
-
-### Features
-
-- Search Recipes
-- API Integration
-- Offline Storage
-- Responsive UI
-
-**Tech Stack**
-
-`Java` `Android` `REST API`
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhirambirakati&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirambirakati&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=abhirambirakati&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhirambirakati&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 Current Focus
-
-- 📚 Solving DSA problems daily
-- 🤖 Building Machine Learning projects
-- ☁️ Learning AWS & Cloud Technologies
-- ⚙️ Exploring DevOps and CI/CD
-- 🚀 Preparing for Software Engineering roles
-
----
-
-<h3 align="center">⭐ Thank you for visiting my profile! ⭐</h3>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
