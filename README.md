@@ -10,7 +10,7 @@
 
 I'm **Abhiram Birakati**, **Data Science** student passionate about building software that solves real-world problems.
 
-I have a strong interest in **Software Development, Machine Learning, Artificial Intelligence, Cloud Computing, and DevOps**. I enjoy learning modern technologies, solving challenging problems through **Data Structures & Algorithms**, and developing practical projects that improve my technical skills.
+I have a strong interest in **Software Development, Machine Learning and DevOps**. I enjoy learning modern technologies, solving challenging problems through **Data Structures & Algorithms**, and developing practical projects that improve my technical skills.
 
 Currently, I'm focused on building scalable applications, exploring cloud technologies, and strengthening my problem-solving abilities while preparing for Software Engineering and Data Science opportunities.
 
